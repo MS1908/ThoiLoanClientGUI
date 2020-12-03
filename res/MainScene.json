@@ -1,7 +1,6 @@
 {
   "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
-  "Version": "2.1.0.0",
-  "Type": "Scene",
+  "Version": "3.10.0.0",
   "Name": "MainScene",
   "Content": {
     "Content": {
@@ -13,73 +12,402 @@
       },
       "AnimationList": [],
       "ObjectData": {
-        "PrePosition": {
-          "X": 0.0,
-          "Y": 0.0
-        },
-        "PreSize": {
-          "X": 0.0,
-          "Y": 0.0
-        },
-        "RightMargin": -960.0,
-        "TopMargin": -640.0,
         "Children": [
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "HelloWorld.png"
+              "Path": "bg_bar_1.png",
+              "Plist": ""
             },
-            "Tag": 5,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.5
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
             },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "ActionTag": 953446860,
+            "AnchorPoint": {},
             "Position": {
-              "X": 480.0,
-              "Y": 320.0
+              "X": 424.9991,
+              "Y": 594.9976
             },
             "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
+              "ScaleX": 1.08,
+              "ScaleY": 0.9
             },
             "CColor": {},
-            "Size": {
-              "X": 960.0,
-              "Y": 640.0
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4427,
+              "Y": 0.9297
             },
-            "FrameEvent": "",
-            "Name": "Default",
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0484
+            },
+            "LeftMargin": 424.9991,
+            "RightMargin": 435.0009,
+            "TopMargin": 14.0024,
+            "BottomMargin": 594.9976,
+            "Tag": 3,
+            "ActionTag": 1347081710,
+            "Size": {
+              "X": 100.0,
+              "Y": 31.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "builder_icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 411.5,
+              "Y": 592.4988
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4286,
+              "Y": 0.9258
+            },
+            "PreSize": {
+              "X": 0.0323,
+              "Y": 0.0578
+            },
+            "LeftMargin": 411.5,
+            "RightMargin": 517.5,
+            "TopMargin": 10.5012,
+            "BottomMargin": 592.4988,
+            "Tag": 4,
+            "ActionTag": -723977597,
+            "Size": {
+              "X": 31.0,
+              "Y": 37.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg_bar_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 223.3237,
+              "Y": 593.7154
+            },
+            "Scale": {
+              "ScaleX": 1.08,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2326,
+              "Y": 0.9277
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0484
+            },
+            "LeftMargin": 223.3237,
+            "RightMargin": 636.6763,
+            "TopMargin": 15.2846,
+            "BottomMargin": 593.7154,
+            "Tag": 7,
+            "ActionTag": -254537109,
+            "Size": {
+              "X": 100.0,
+              "Y": 31.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "army_icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 203.9973,
+              "Y": 591.9959
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2125,
+              "Y": 0.925
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0719
+            },
+            "LeftMargin": 203.9973,
+            "RightMargin": 710.0027,
+            "TopMargin": 12.0041,
+            "BottomMargin": 591.9959,
+            "Tag": 6,
+            "ActionTag": 1029867460,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg_bar_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 627.3205,
+              "Y": 594.71
+            },
+            "Scale": {
+              "ScaleX": 1.08,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6535,
+              "Y": 0.9292
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0484
+            },
+            "LeftMargin": 627.3205,
+            "RightMargin": 232.6795,
+            "TopMargin": 14.29,
+            "BottomMargin": 594.71,
+            "Tag": 9,
+            "ActionTag": 925477509,
+            "Size": {
+              "X": 100.0,
+              "Y": 31.0
+            },
+            "Name": "Sprite_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shield.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 609.3157,
+              "Y": 591.7139
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6347,
+              "Y": 0.9246
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0719
+            },
+            "LeftMargin": 609.3157,
+            "RightMargin": 314.6843,
+            "TopMargin": 11.2861,
+            "BottomMargin": 591.7139,
+            "Tag": 8,
+            "ActionTag": 996841460,
+            "Size": {
+              "X": 36.0,
+              "Y": 37.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "add_g_button.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 314.8229,
+              "Y": 594.2152
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3279,
+              "Y": 0.9285
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0719
+            },
+            "LeftMargin": 314.8229,
+            "RightMargin": 616.1771,
+            "TopMargin": 15.7848,
+            "BottomMargin": 594.2152,
+            "Tag": 10,
+            "ActionTag": -1700553202,
+            "Size": {
+              "X": 29.0,
+              "Y": 30.0
+            },
+            "Name": "Sprite_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "add_g_button.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 516.3167,
+              "Y": 595.2148
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5378,
+              "Y": 0.93
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0719
+            },
+            "LeftMargin": 516.3167,
+            "RightMargin": 414.6833,
+            "TopMargin": 14.7852,
+            "BottomMargin": 595.2148,
+            "Tag": 11,
+            "ActionTag": 1061611033,
+            "Size": {
+              "X": 29.0,
+              "Y": 30.0
+            },
+            "Name": "Sprite_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "add_g_button.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 718.8229,
+              "Y": 595.2146
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7488,
+              "Y": 0.93
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0719
+            },
+            "LeftMargin": 718.8229,
+            "RightMargin": 212.1771,
+            "TopMargin": 14.7854,
+            "BottomMargin": 595.2146,
+            "Tag": 12,
+            "ActionTag": -927289769,
+            "Size": {
+              "X": 29.0,
+              "Y": 30.0
+            },
+            "Name": "Sprite_9",
             "ctype": "SpriteObjectData"
           }
         ],
-        "Position": {
-          "X": 0.0,
-          "Y": 0.0
-        },
-        "Scale": {
-          "ScaleX": 1.0,
-          "ScaleY": 1.0
-        },
-        "AnchorPoint": {},
-        "CColor": {},
         "Size": {
           "X": 960.0,
           "Y": 640.0
         },
-        "FrameEvent": "",
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"
       },
-      "ctype": "GameProjectData"
+      "UsedResources": [
+        "add_g_button.png",
+        "army_icon.png",
+        "bg_bar_1.png",
+        "builder_icon.png",
+        "shield.png"
+      ],
+      "ctype": "GameFileData"
     }
-  }
+  },
+  "Type": "Scene"
 }
