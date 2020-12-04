@@ -12,12 +12,14 @@
         <TmxFile Name="42x42map.tmx" />
         <Image Name="add_g_button.png" />
         <Image Name="army_icon.png" />
+        <Image Name="BG.png" />
         <Image Name="bg_bar_1.png" />
         <Image Name="builder_icon.png" />
-        <Image Name="HelloWorld.png" />
+        <Image Name="button.png" />
         <Project Name="MainScene.csd" Type="Scene" />
         <Project Name="MapLayer.csd" Type="Layer" />
         <Image Name="shield.png" />
+        <Project Name="UpdateGoldMiningBuildingLayer.csd" Type="Layer" />
       </RootFolder>
     </Group>
   </SolutionFolder>
