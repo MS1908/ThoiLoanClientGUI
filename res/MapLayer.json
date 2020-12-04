@@ -107,17 +107,17 @@
             "AnchorPoint": {},
             "Position": {
               "X": 0.0001,
-              "Y": 0.012
+              "Y": 3.012
             },
             "Scale": {
-              "ScaleX": 0.4539,
-              "ScaleY": 0.4124
+              "ScaleX": 0.4567,
+              "ScaleY": 0.416
             },
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
               "X": 0.0,
-              "Y": 0.0
+              "Y": 0.0047
             },
             "PreSize": {
               "X": 1.099,
@@ -125,8 +125,8 @@
             },
             "LeftMargin": 0.0001,
             "RightMargin": -95.0001,
-            "TopMargin": -198.012,
-            "BottomMargin": 0.012,
+            "TopMargin": -201.012,
+            "BottomMargin": 3.012,
             "Tag": 16,
             "ActionTag": 1531324220,
             "Size": {

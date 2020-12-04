@@ -27,13 +27,13 @@
             <FileData Type="Normal" Path="1_0003_Layer-2.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_3" ActionTag="1531324220" Tag="16" IconVisible="False" LeftMargin="0.0001" RightMargin="-95.0001" TopMargin="-198.0120" BottomMargin="0.0120" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_3" ActionTag="1531324220" Tag="16" IconVisible="False" LeftMargin="0.0001" RightMargin="-95.0001" TopMargin="-201.0120" BottomMargin="3.0120" ctype="SpriteObjectData">
             <Size X="1055.0000" Y="838.0000" />
             <AnchorPoint />
-            <Position X="0.0001" Y="0.0120" />
-            <Scale ScaleX="0.4539" ScaleY="0.4124" />
+            <Position X="0.0001" Y="3.0120" />
+            <Scale ScaleX="0.4567" ScaleY="0.4160" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0000" Y="0.0000" />
+            <PrePosition X="0.0000" Y="0.0047" />
             <PreSize X="1.0990" Y="1.3094" />
             <FileData Type="Normal" Path="1_0001_Layer-1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />

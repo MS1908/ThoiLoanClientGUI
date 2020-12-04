@@ -14,7 +14,6 @@
         <Image Name="army_icon.png" />
         <Image Name="bg_bar_1.png" />
         <Image Name="builder_icon.png" />
-        <Image Name="HelloWorld.png" />
         <Project Name="MainScene.csd" Type="Scene" />
         <Project Name="MapLayer.csd" Type="Layer" />
         <Image Name="shield.png" />
