@@ -3,21 +3,13 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Image Name="1.png" />
         <Image Name="1_0000_Layer-3.png" />
         <Image Name="1_0001_Layer-1.png" />
         <Image Name="1_0002_Layer-4.png" />
         <Image Name="1_0003_Layer-2.png" />
-        <Image Name="2.png" />
         <TmxFile Name="42x42map.tmx" />
-        <Image Name="add_g_button.png" />
-        <Image Name="army_icon.png" />
-        <Image Name="bg_bar_1.png" />
-        <Image Name="builder_icon.png" />
-        <Image Name="HelloWorld.png" />
-        <Project Name="MainScene.csd" Type="Scene" />
         <Project Name="MapLayer.csd" Type="Layer" />
-        <Image Name="shield.png" />
+        <Project Name="Scene.csd" Type="Scene" />
       </RootFolder>
     </Group>
   </SolutionFolder>
