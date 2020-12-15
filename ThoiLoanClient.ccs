@@ -18,10 +18,10 @@
         <Image Name="info_bar.png" />
         <Project Name="MapLayer.csd" Type="Layer" />
         <Image Name="TrainingCost_Icon.png" />
+        <Project Name="UpdateElixirMiningBuildingLayer.csd" Type="Layer" />
         <Project Name="UpdateElixirStorageBuildingLayer.csd" Type="Layer" />
         <Project Name="UpdateGoldMiningBuildingLayer.csd" Type="Layer" />
         <Project Name="UpdateGoldStorageBuildingLayer.csd" Type="Layer" />
-        <Project Name="UpdateElixirMiningBuildingLayer.csd" Type="Layer" />
       </RootFolder>
     </Group>
   </SolutionFolder>
