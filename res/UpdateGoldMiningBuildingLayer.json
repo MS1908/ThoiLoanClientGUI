@@ -1,0 +1,416 @@
+{
+  "ID": "19d9aa49-40f2-4ee2-8747-3f153a0feb42",
+  "Version": "3.10.0.0",
+  "Name": "UpdateGoldMiningBuildingLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 27,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BG.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 9.1961,
+              "Y": -2.5609
+            },
+            "Scale": {
+              "ScaleX": 3.2567,
+              "ScaleY": 2.616
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0072,
+              "Y": -0.0036
+            },
+            "PreSize": {
+              "X": 0.3055,
+              "Y": 0.3792
+            },
+            "LeftMargin": 9.1961,
+            "RightMargin": 879.8039,
+            "TopMargin": 449.5609,
+            "BottomMargin": -2.5609,
+            "Tag": 28,
+            "ActionTag": 1871970317,
+            "Size": {
+              "X": 391.0,
+              "Y": 273.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 528.085,
+              "Y": 71.5835
+            },
+            "Scale": {
+              "ScaleX": 1.438,
+              "ScaleY": 1.3386
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4126,
+              "Y": 0.0994
+            },
+            "PreSize": {
+              "X": 0.1281,
+              "Y": 0.0931
+            },
+            "LeftMargin": 528.085,
+            "RightMargin": 587.915,
+            "TopMargin": 581.4165,
+            "BottomMargin": 71.5835,
+            "Tag": 29,
+            "ActionTag": 1841769401,
+            "Size": {
+              "X": 164.0,
+              "Y": 67.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "TrainingCost_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 705.3333,
+              "Y": 85.8039
+            },
+            "Scale": {
+              "ScaleX": 1.5957,
+              "ScaleY": 1.6421
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.551,
+              "Y": 0.1192
+            },
+            "PreSize": {
+              "X": 0.0211,
+              "Y": 0.0472
+            },
+            "LeftMargin": 705.3333,
+            "RightMargin": 547.6667,
+            "TopMargin": 600.1961,
+            "BottomMargin": 85.8039,
+            "Tag": 30,
+            "ActionTag": -2087376720,
+            "Size": {
+              "X": 27.0,
+              "Y": 34.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 777.7139,
+              "Y": 512.0602
+            },
+            "Scale": {
+              "ScaleX": 1.2074,
+              "ScaleY": 1.4872
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6076,
+              "Y": 0.7112
+            },
+            "PreSize": {
+              "X": 0.243,
+              "Y": 0.05
+            },
+            "LeftMargin": 777.7139,
+            "RightMargin": 191.2861,
+            "TopMargin": 171.9398,
+            "BottomMargin": 512.0602,
+            "Tag": 31,
+            "ActionTag": -1064336847,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Gold_Capacity_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 718.9997,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.1778,
+              "ScaleY": 1.25
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5617,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.0352,
+              "Y": 0.0556
+            },
+            "LeftMargin": 718.9997,
+            "RightMargin": 516.0003,
+            "TopMargin": 165.0,
+            "BottomMargin": 515.0,
+            "Tag": 12,
+            "ActionTag": -1156586331,
+            "Size": {
+              "X": 45.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 778.0012,
+              "Y": 385.7747
+            },
+            "Scale": {
+              "ScaleX": 1.2045,
+              "ScaleY": 1.4444
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6078,
+              "Y": 0.5358
+            },
+            "PreSize": {
+              "X": 0.243,
+              "Y": 0.05
+            },
+            "LeftMargin": 778.0012,
+            "RightMargin": 190.9988,
+            "TopMargin": 298.2253,
+            "BottomMargin": 385.7747,
+            "Tag": 14,
+            "ActionTag": -159894819,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "Sprite_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Heal_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 726.6986,
+              "Y": 388.7741
+            },
+            "Scale": {
+              "ScaleX": 1.3548,
+              "ScaleY": 1.3226
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5677,
+              "Y": 0.54
+            },
+            "PreSize": {
+              "X": 0.0242,
+              "Y": 0.0431
+            },
+            "LeftMargin": 726.6986,
+            "RightMargin": 522.3014,
+            "TopMargin": 300.2259,
+            "BottomMargin": 388.7741,
+            "Tag": 15,
+            "ActionTag": 1757784333,
+            "Size": {
+              "X": 31.0,
+              "Y": 31.0
+            },
+            "Name": "Sprite_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 780.4411,
+              "Y": 450.0406
+            },
+            "Scale": {
+              "ScaleX": 1.2045,
+              "ScaleY": 1.4444
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6097,
+              "Y": 0.6251
+            },
+            "PreSize": {
+              "X": 0.243,
+              "Y": 0.05
+            },
+            "LeftMargin": 780.4411,
+            "RightMargin": 188.5588,
+            "TopMargin": 233.9594,
+            "BottomMargin": 450.0406,
+            "Tag": 24,
+            "ActionTag": 814451818,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "Sprite_7_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Gold_ProductionRate_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 728.7391,
+              "Y": 451.7122
+            },
+            "Scale": {
+              "ScaleX": 1.4036,
+              "ScaleY": 1.3776
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5693,
+              "Y": 0.6274
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 728.7391,
+            "RightMargin": 522.2609,
+            "TopMargin": 237.2878,
+            "BottomMargin": 451.7122,
+            "Tag": 27,
+            "ActionTag": -1071408503,
+            "Size": {
+              "X": 29.0,
+              "Y": 31.0
+            },
+            "Name": "Sprite_9",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BG.png",
+        "button.png",
+        "Gold_Capacity_Icon.png",
+        "Gold_ProductionRate_Icon.png",
+        "Heal_Icon.png",
+        "info_bar.png",
+        "TrainingCost_Icon.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

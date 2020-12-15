@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="UpdateGoldMiningBuildingLayer" Type="Layer" ID="19d9aa49-40f2-4ee2-8747-3f153a0feb42" Version="3.10.0.0" />
+  <PropertyGroup Name="UpdateElixirMiningBuildingLayer" Type="Layer" ID="a2ac1b17-dbf9-4f37-a454-111df1d46ffb" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -28,15 +28,15 @@
             <FileData Type="Normal" Path="button.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_3" ActionTag="-2087376720" Tag="30" IconVisible="False" LeftMargin="705.3333" RightMargin="547.6667" TopMargin="600.1961" BottomMargin="85.8039" ctype="SpriteObjectData">
-            <Size X="27.0000" Y="34.0000" />
+          <AbstractNodeData Name="Sprite_3" ActionTag="-2087376720" Tag="30" IconVisible="False" LeftMargin="702.7323" RightMargin="548.2677" TopMargin="599.2943" BottomMargin="89.7057" ctype="SpriteObjectData">
+            <Size X="29.0000" Y="31.0000" />
             <AnchorPoint />
-            <Position X="705.3333" Y="85.8039" />
+            <Position X="702.7323" Y="89.7057" />
             <Scale ScaleX="1.5957" ScaleY="1.6421" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5510" Y="0.1192" />
+            <PrePosition X="0.5490" Y="0.1246" />
             <PreSize X="0.0211" Y="0.0472" />
-            <FileData Type="Normal" Path="TrainingCost_Icon.png" Plist="" />
+            <FileData Type="Normal" Path="Gold_ProductionRate_Icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_4" ActionTag="-1064336847" Tag="31" IconVisible="False" LeftMargin="777.7139" RightMargin="191.2861" TopMargin="171.9398" BottomMargin="512.0602" ctype="SpriteObjectData">
@@ -50,15 +50,15 @@
             <FileData Type="Normal" Path="info_bar.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-1156586331" Tag="12" IconVisible="False" LeftMargin="718.9997" RightMargin="516.0003" TopMargin="165.0000" BottomMargin="515.0000" ctype="SpriteObjectData">
-            <Size X="45.0000" Y="40.0000" />
+          <AbstractNodeData Name="Sprite_5" ActionTag="-1156586331" Tag="12" IconVisible="False" LeftMargin="724.2023" RightMargin="520.7977" TopMargin="163.9997" BottomMargin="515.0003" ctype="SpriteObjectData">
+            <Size X="35.0000" Y="41.0000" />
             <AnchorPoint />
-            <Position X="718.9997" Y="515.0000" />
+            <Position X="724.2023" Y="515.0003" />
             <Scale ScaleX="1.1778" ScaleY="1.2500" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5617" Y="0.7153" />
+            <PrePosition X="0.5658" Y="0.7153" />
             <PreSize X="0.0352" Y="0.0556" />
-            <FileData Type="Normal" Path="Gold_Capacity_Icon.png" Plist="" />
+            <FileData Type="Normal" Path="Elixir_Capacity_Icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_7" ActionTag="-159894819" Tag="14" IconVisible="False" LeftMargin="778.0012" RightMargin="190.9988" TopMargin="298.2253" BottomMargin="385.7747" ctype="SpriteObjectData">
@@ -95,14 +95,14 @@
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_9" ActionTag="-1071408503" Tag="27" IconVisible="False" LeftMargin="728.7391" RightMargin="522.2609" TopMargin="237.2878" BottomMargin="451.7122" ctype="SpriteObjectData">
-            <Size X="29.0000" Y="31.0000" />
+            <Size X="27.0000" Y="34.0000" />
             <AnchorPoint />
             <Position X="728.7391" Y="451.7122" />
             <Scale ScaleX="1.4036" ScaleY="1.3776" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5693" Y="0.6274" />
-            <PreSize X="0.0359" Y="0.0639" />
-            <FileData Type="Normal" Path="Gold_ProductionRate_Icon.png" Plist="" />
+            <PreSize X="0.0227" Y="0.0431" />
+            <FileData Type="Normal" Path="TrainingCost_Icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

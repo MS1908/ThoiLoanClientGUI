@@ -25,5 +25,13 @@
         <LastRunType Value="Windows" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MapLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="MapLayer.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

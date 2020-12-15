@@ -1,18 +1,18 @@
 <GameFile>
-  <PropertyGroup Name="UpdateGoldMiningBuildingLayer" Type="Layer" ID="19d9aa49-40f2-4ee2-8747-3f153a0feb42" Version="3.10.0.0" />
+  <PropertyGroup Name="UpdateGoldStorageBuildingLayer" Type="Layer" ID="29638cd7-19d2-4a8a-9dea-c6fc36b7970e" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Layer" Tag="27" ctype="GameLayerObjectData">
         <Size X="1280.0000" Y="720.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_1" ActionTag="1871970317" Tag="28" IconVisible="False" LeftMargin="9.1961" RightMargin="879.8039" TopMargin="449.5609" BottomMargin="-2.5609" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_1" ActionTag="1871970317" Tag="28" IconVisible="False" LeftMargin="-1.2086" RightMargin="890.2086" TopMargin="449.5610" BottomMargin="-2.5610" ctype="SpriteObjectData">
             <Size X="391.0000" Y="273.0000" />
             <AnchorPoint />
-            <Position X="9.1961" Y="-2.5609" />
+            <Position X="-1.2086" Y="-2.5610" />
             <Scale ScaleX="3.2567" ScaleY="2.6160" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0072" Y="-0.0036" />
+            <PrePosition X="-0.0009" Y="-0.0036" />
             <PreSize X="0.3055" Y="0.3792" />
             <FileData Type="Normal" Path="BG.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
@@ -61,48 +61,26 @@
             <FileData Type="Normal" Path="Gold_Capacity_Icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_7" ActionTag="-159894819" Tag="14" IconVisible="False" LeftMargin="778.0012" RightMargin="190.9988" TopMargin="298.2253" BottomMargin="385.7747" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_4_0" ActionTag="-766085831" Tag="25" IconVisible="False" LeftMargin="777.8433" RightMargin="191.1567" TopMargin="241.7610" BottomMargin="442.2390" ctype="SpriteObjectData">
             <Size X="311.0000" Y="36.0000" />
             <AnchorPoint />
-            <Position X="778.0012" Y="385.7747" />
-            <Scale ScaleX="1.2045" ScaleY="1.4444" />
+            <Position X="777.8433" Y="442.2390" />
+            <Scale ScaleX="1.2074" ScaleY="1.4872" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6078" Y="0.5358" />
+            <PrePosition X="0.6077" Y="0.6142" />
             <PreSize X="0.2430" Y="0.0500" />
             <FileData Type="Normal" Path="info_bar.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_8" ActionTag="1757784333" Tag="15" IconVisible="False" LeftMargin="726.6986" RightMargin="522.3014" TopMargin="300.2259" BottomMargin="388.7741" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5_0" ActionTag="-1503918028" Tag="26" IconVisible="False" LeftMargin="729.7223" RightMargin="519.2777" TopMargin="241.5572" BottomMargin="447.4428" ctype="SpriteObjectData">
             <Size X="31.0000" Y="31.0000" />
             <AnchorPoint />
-            <Position X="726.6986" Y="388.7741" />
-            <Scale ScaleX="1.3548" ScaleY="1.3226" />
+            <Position X="729.7223" Y="447.4428" />
+            <Scale ScaleX="1.3456" ScaleY="1.3759" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5677" Y="0.5400" />
+            <PrePosition X="0.5701" Y="0.6214" />
             <PreSize X="0.0242" Y="0.0431" />
             <FileData Type="Normal" Path="Heal_Icon.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_7_0" ActionTag="814451818" Tag="24" IconVisible="False" LeftMargin="780.4411" RightMargin="188.5588" TopMargin="233.9594" BottomMargin="450.0406" ctype="SpriteObjectData">
-            <Size X="311.0000" Y="36.0000" />
-            <AnchorPoint />
-            <Position X="780.4411" Y="450.0406" />
-            <Scale ScaleX="1.2045" ScaleY="1.4444" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6097" Y="0.6251" />
-            <PreSize X="0.2430" Y="0.0500" />
-            <FileData Type="Normal" Path="info_bar.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_9" ActionTag="-1071408503" Tag="27" IconVisible="False" LeftMargin="728.7391" RightMargin="522.2609" TopMargin="237.2878" BottomMargin="451.7122" ctype="SpriteObjectData">
-            <Size X="29.0000" Y="31.0000" />
-            <AnchorPoint />
-            <Position X="728.7391" Y="451.7122" />
-            <Scale ScaleX="1.4036" ScaleY="1.3776" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5693" Y="0.6274" />
-            <PreSize X="0.0359" Y="0.0639" />
-            <FileData Type="Normal" Path="Gold_ProductionRate_Icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
